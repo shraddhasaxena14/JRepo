@@ -1,0 +1,16 @@
+D:\LTI Project\prjfirstapplication\prjfirstapplication\CaseStudy\bin\Debug\net5.0\CaseStudy.exe
+D:\LTI Project\prjfirstapplication\prjfirstapplication\CaseStudy\bin\Debug\net5.0\CaseStudy.deps.json
+D:\LTI Project\prjfirstapplication\prjfirstapplication\CaseStudy\bin\Debug\net5.0\CaseStudy.runtimeconfig.json
+D:\LTI Project\prjfirstapplication\prjfirstapplication\CaseStudy\bin\Debug\net5.0\CaseStudy.runtimeconfig.dev.json
+D:\LTI Project\prjfirstapplication\prjfirstapplication\CaseStudy\bin\Debug\net5.0\CaseStudy.dll
+D:\LTI Project\prjfirstapplication\prjfirstapplication\CaseStudy\bin\Debug\net5.0\ref\CaseStudy.dll
+D:\LTI Project\prjfirstapplication\prjfirstapplication\CaseStudy\bin\Debug\net5.0\CaseStudy.pdb
+D:\LTI Project\prjfirstapplication\prjfirstapplication\CaseStudy\obj\Debug\net5.0\CaseStudy.csproj.AssemblyReference.cache
+D:\LTI Project\prjfirstapplication\prjfirstapplication\CaseStudy\obj\Debug\net5.0\CaseStudy.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTI Project\prjfirstapplication\prjfirstapplication\CaseStudy\obj\Debug\net5.0\CaseStudy.AssemblyInfoInputs.cache
+D:\LTI Project\prjfirstapplication\prjfirstapplication\CaseStudy\obj\Debug\net5.0\CaseStudy.AssemblyInfo.cs
+D:\LTI Project\prjfirstapplication\prjfirstapplication\CaseStudy\obj\Debug\net5.0\CaseStudy.csproj.CoreCompileInputs.cache
+D:\LTI Project\prjfirstapplication\prjfirstapplication\CaseStudy\obj\Debug\net5.0\CaseStudy.dll
+D:\LTI Project\prjfirstapplication\prjfirstapplication\CaseStudy\obj\Debug\net5.0\ref\CaseStudy.dll
+D:\LTI Project\prjfirstapplication\prjfirstapplication\CaseStudy\obj\Debug\net5.0\CaseStudy.pdb
+D:\LTI Project\prjfirstapplication\prjfirstapplication\CaseStudy\obj\Debug\net5.0\CaseStudy.genruntimeconfig.cache
